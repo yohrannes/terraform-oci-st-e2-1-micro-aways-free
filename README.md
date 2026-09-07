@@ -1,0 +1,1 @@
+# terraform-oci-st-e2-1-micro-aways-free
